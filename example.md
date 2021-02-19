@@ -18,7 +18,7 @@ Francis Lewis High School
 
 *Favorite Movie*
 
-Harry Potter and the Philosepher's Stone
+Harry Potter and the Philosopher's Stone
 
 *Favorite Book Series*
 
