@@ -1,4 +1,5 @@
 # Introductions
+![welcome image](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/waving-hand-sign_1f44b.png)
 An introduction of yourself to the hack club community.
 
 See [example.md](https://github.com/FLHS-Hacks/introductions/blob/main/example.md) for an example introduction.
