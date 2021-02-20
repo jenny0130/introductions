@@ -12,3 +12,7 @@ Check out [this documentation](https://docs.github.com/en/github/writing-on-gith
 And [here](https://docs.github.com/en) is the full GitHub documentation for you to look at when you need it!
 
 One note: Please use a pull request if you would like to edit or fix anything!
+
+Students may go [here](https://classroom.github.com/a/l7v3Hl3r) to accept the assignment. 
+
+**If you are a guest who is not a student or have graduated, please use the "Discussions" tab to post your introduction.**
